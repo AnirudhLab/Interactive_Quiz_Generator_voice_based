@@ -1,0 +1,11 @@
+streamlit
+openai>=1.0.0
+pandas
+numpy
+pyttsx3
+soundfile
+fuzzywuzzy
+python-Levenshtein
+streamlit-webrtc
+setuptools<81  # required for webrtcvad and older deps
+
